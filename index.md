@@ -31,6 +31,6 @@ I am broadly interested in calibrating deep learning models to make them more us
 - **[Jan. 2016]** Awarded ['Certificate of Distinction in Mathematics'](https://drive.google.com/file/d/1Dhnx3cdbrHVmLWwOUka1D3hK1W5blWwk/view?usp=sharing) in the 19th All India Mathematics and Science Olympiad.
 
 
-<!--  {% include_relative _includes/publications.md %}
+{% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %} -->
+<!-- {% include_relative _includes/services.md %} -->
