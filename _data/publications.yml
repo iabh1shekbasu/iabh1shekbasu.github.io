@@ -10,13 +10,10 @@ main:
     image: ./assets/img/teaser_example_2.png
     notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  - title: An Ensemble of UNet Frameworks for Lung Nodule Segmentation
+    authors: Nandita Gautam, Abhishek Basu, and Ram Sarkar
+    conference_short:  APAMCS-2022
+    conference:  International Conference on Actual Problems In Applied Mathematics and Computer Science, 2022
+    pdf: https://link.springer.com/chapter/10.1007/978-3-031-34127-4_44
     notes: Oral Presentation
     image: ./assets/img/teaser_example.png
