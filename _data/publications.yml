@@ -7,7 +7,7 @@ main:
     pdf: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0298527"
     notes: "Journal Paper"
     code: "https://github.com/SuryaMajumder/MENet-A-Mitscherlich-Function-based-Ensemble-of-CNN-Models-to-Classify-Lung-Cancer-using-CT-Scans"
-    image: "./assets/img/teaser_example_2.png"
+    image: "./assets/img/PLOSONE.png"
 
   - title: "Lung Cancer Detection from Thoracic CT Scans using an Ensemble of Deep Learning Models"
     authors: "<strong>Nandita Gautam*</strong>, <strong>Abhishek Basu*</strong>, and Ram Sarkar"
@@ -16,7 +16,7 @@ main:
     pdf: "https://link.springer.com/article/10.1007/s00521-023-09130-7"
     notes: "Journal Paper"
     code: "https://github.com/iabh1shekbasu/LungCancerDetectionEnsemble"
-    image: "./assets/img/teaser_example_2.png"
+    image: "./assets/img/NCAA.png"
 
   - title: "An Ensemble of UNet Frameworks for Lung Nodule Segmentation"
     authors: "Nandita Gautam, <strong>Abhishek Basu</strong>, Dmitry Kaplun, and Ram Sarkar"
@@ -24,7 +24,7 @@ main:
     conference: "Lecture Notes in Networks and Systems"
     pdf: "https://link.springer.com/chapter/10.1007/978-3-031-34127-4_44"
     notes: "Book Chapter"
-    image: "./assets/img/teaser_example.png"
+    image: "./assets/img/BUSU-NET++.png"
 
   - title: "An Ensemble of UNet Frameworks for Lung Nodule Segmentation"
     authors: "Nandita Gautam, <strong>Abhishek Basu</strong>, Dmitry Kaplun and Ram Sarkar"
@@ -32,4 +32,4 @@ main:
     conference: "International Conference on Actual Problems In Applied Mathematics and Computer Science, 2022"
     pdf: "https://drive.google.com/file/d/1LeTg3clVwMyfCpMhc9WC1Qshl5aJZnOd/view?usp=sharing"
     notes: "Oral Presentation"
-    image: "./assets/img/teaser_example.png"
+    image: "./assets/img/BUSU-NET++.png"
