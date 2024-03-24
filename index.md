@@ -14,6 +14,7 @@ I am broadly interested in calibrating deep learning models to make them more us
 
 ## News
 
+- **[Mar. 2024]** Our paper “MENet: A Mitscherlich function based ensemble of CNN models to classify lung cancer using CT scans.” got accepted at [PLOS One](https://doi.org/10.1371/journal.pone.0298527).
 - **[Nov. 2023]** Our paper “Lung Cancer Detection from Thoracic CT Scans using an Ensemble of Deep Learning Models.” got accepted at [Neural Computing and Applications, Springer](https://doi.org/10.1007/s00521-023-09130-7).
 - **[Aug 2023]** Commenced Master of Science in Computer Vision at [Mohamed Bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/) and awarded a Fully funded master's scholarship, covering tuition and other expenses.
 - **[June 2023]** Our paper “An Ensemble of UNet Frameworks for Lung Nodule Segmentation.” was published in the book series [Current Problems in Applied Mathematics and Computer Science and Systems](https://link.springer.com/chapter/10.1007/978-3-031-34127-4_44)
