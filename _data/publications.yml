@@ -5,6 +5,7 @@ main:
     conference_short: "PLOS One"
     conference: "PLOS One"
     pdf: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0298527"
+    notes: "Journal Paper"
     code: "https://github.com/SuryaMajumder/MENet-A-Mitscherlich-Function-based-Ensemble-of-CNN-Models-to-Classify-Lung-Cancer-using-CT-Scans"
     image: "./assets/img/teaser_example_2.png"
 
@@ -13,6 +14,7 @@ main:
     conference_short: "NCA"
     conference: "Neural Computing and Applications, Springer."
     pdf: "https://link.springer.com/article/10.1007/s00521-023-09130-7"
+    notes: "Journal Paper"
     code: "https://github.com/iabh1shekbasu/LungCancerDetectionEnsemble"
     image: "./assets/img/teaser_example_2.png"
 
@@ -21,6 +23,7 @@ main:
     conference_short: "LNNS"
     conference: "Lecture Notes in Networks and Systems"
     pdf: "https://link.springer.com/chapter/10.1007/978-3-031-34127-4_44"
+    notes: "Book Chapter"
     image: "./assets/img/teaser_example.png"
 
   - title: "An Ensemble of UNet Frameworks for Lung Nodule Segmentation"
