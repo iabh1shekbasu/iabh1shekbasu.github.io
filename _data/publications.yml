@@ -1,7 +1,16 @@
 main:
 
+  - title: "XDT-CXR: Investigating Cross-Disease Transferability in Zero-Shot Binary Classification of Chest X-Rays"
+    authors: "Umaima Rahman, <strong>Abhishek Basu</strong>, Muhammad Uzair Khattak, and  Aniq Ur Rahman"
+    conference_short: "MLHC 2024"
+    conference: "   Machine Learning for Healthcare 2024"
+    pdf: "https://arxiv.org/abs/2408.11493v1"
+    notes: "Poster Presentation"
+    code: "https://github.com/rumaima/xdt_cxr"
+    image: "./assets/img/MLHC.png"
+
   - title: "MENet: A Mitscherlich function based ensemble of CNN models to classify lung cancer using CT scans"
-    authors: "<strong>Surya Majumdar*</strong>, <strong>Nandita Gautam*</strong>, <strong>Abhishek Basu*</strong>, <strong>Arup Sau*</strong>, Zong Woo Geem and Ram Sarkar"
+    authors: "Surya Majumdar*, Nandita Gautam*, <strong>Abhishek Basu*</strong>, Arup Sau*, Zong Woo Geem and Ram Sarkar"
     conference_short: "PLOS One"
     conference: "PLOS One"
     pdf: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0298527"
@@ -10,7 +19,7 @@ main:
     image: "./assets/img/PLOSONE.png"
 
   - title: "Lung Cancer Detection from Thoracic CT Scans using an Ensemble of Deep Learning Models"
-    authors: "<strong>Nandita Gautam*</strong>, <strong>Abhishek Basu*</strong>, and Ram Sarkar"
+    authors: "Nandita Gautam*, <strong>Abhishek Basu*</strong>, and Ram Sarkar"
     conference_short: "NCA"
     conference: "Neural Computing and Applications, Springer."
     pdf: "https://link.springer.com/article/10.1007/s00521-023-09130-7"
