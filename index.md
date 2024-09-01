@@ -13,7 +13,7 @@ I am broadly interested in calibrating deep learning models to make them more us
 - **Machine Learning:** meta-learning, incremental learning, transfer learning  -->
 
 ## News
-
+- **[Jul. 2024]** Our paper “XDT-CXR: Investigating Cross-Disease Transferability in Zero-Shot Binary Classification of Chest X-Rays.” got accepted at [Machine Learning for Healthcare 2024](https://arxiv.org/abs/2408.11493).
 - **[Mar. 2024]** Our paper “MENet: A Mitscherlich function based ensemble of CNN models to classify lung cancer using CT scans.” got accepted at [PLOS One](https://doi.org/10.1371/journal.pone.0298527).
 - **[Nov. 2023]** Our paper “Lung Cancer Detection from Thoracic CT Scans using an Ensemble of Deep Learning Models.” got accepted at [Neural Computing and Applications, Springer](https://doi.org/10.1007/s00521-023-09130-7).
 - **[Aug 2023]** Commenced Master of Science in Computer Vision at [Mohamed Bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/) and awarded a Fully funded master's scholarship, covering tuition and other expenses.
