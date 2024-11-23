@@ -1,0 +1,17 @@
+academic_services:
+
+  teaching_assistant:
+    - course: Mathematical Foundations of Artificial Intelligence  (MTH701)
+      term: Fall 2024
+      professor: 
+        name: Prof. Karthik Nandakumar
+        link: "https://mbzuai.ac.ae/study/faculty/karthik-nandakumar/"
+
+  conference_volunteering:
+    - role: Program Volunteer
+      conference: International Conference on Data Mining (ICDM)
+      location: Abu Dhabi
+
+
+
+ 
