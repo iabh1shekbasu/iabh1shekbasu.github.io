@@ -7,7 +7,16 @@
 ## Teaching Assistant
 
 {%- for position in site.data.services.services.teaching_assistant %}
-- {{ position.course }} course - {{ position.term }} with [{{ position.professor.name }}]({{ position.professor.link }})
+- {{ position.course }} course - {{ position.term }} with 
+  {%- for prof in position.professor -%}
+    {%- if forloop.last and forloop.first -%}
+      [{{ prof.name }}]({{ prof.link }})
+    {%- elsif forloop.last -%}
+      and [{{ prof.name }}]({{ prof.link }})
+    {%- else -%}
+      [{{ prof.name }}]({{ prof.link }}), 
+    {%- endif -%}
+  {%- endfor %}
 {%- endfor %}
 
 ## Conference Volunteering
