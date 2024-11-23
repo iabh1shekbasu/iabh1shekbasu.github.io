@@ -34,4 +34,4 @@ I am broadly interested in calibrating deep learning models to make them more us
 
 {% include_relative _includes/publications.md %}
 
-<!-- {% include_relative _includes/services.md %} -->
+{% include_relative _includes/services.md %} 
