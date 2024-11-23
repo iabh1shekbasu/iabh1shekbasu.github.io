@@ -1,31 +1,24 @@
----
-layout: page
-title: Services
----
-
-<h2 id="services" style="margin: 2px 0px -15px;">Services</h2>
-
-<div class="services">
-  <ol class="service-list">
-    {% for category, items in site.data.services %}
-      <li>
-        <h3>{{ category | replace: '_', ' ' | capitalize }}</h3>
-        <ul>
-          {% for item in items %}
-            <li>
-              {% if item.course %}
-                <strong>{{ item.course }}</strong> - {{ item.term }}
-                <br>Professor: <a href="{{ item.professor.link }}">{{ item.professor.name }}</a>
-              {% endif %}
-              {% if item.role %}
-                <strong>{{ item.role }}</strong>
-                <br>Conference: {{ item.conference }}
-                <br>Location: {{ item.location }}
-              {% endif %}
-            </li>
-          {% endfor %}
-        </ul>
-      </li>
-    {% endfor %}
-  </ol>
+{%- if site.data.services.teaching_assistant %}
+Teaching Assistant Experience
+<div class="services-container">
+{% for position in site.data.services.teaching_assistant %}
+  <div class="service-item">
+    <h3>{{ position.course }}</h3>
+    <p>{{ position.term }}</p>
+    <p>Professor: {% if position.professor.link %}<a href="{{ position.professor.link }}">{{ position.professor.name }}</a>{% else %}{{ position.professor.name }}{% endif %}</p>
+  </div>
+{% endfor %}
 </div>
+{%- endif %}
+{%- if site.data.services.conference_volunteering %}
+Conference Volunteering
+<div class="services-container">
+{% for role in site.data.services.conference_volunteering %}
+  <div class="service-item">
+    <h3>{{ role.role }}</h3>
+    <p><strong>{{ role.conference }}</strong></p>
+    <p>Location: {{ role.location }}</p>
+  </div>
+{% endfor %}
+</div>
+{%- endif %}
