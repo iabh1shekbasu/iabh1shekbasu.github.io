@@ -2,40 +2,27 @@
 
 <div class="services">
 <ol class="service-list">
-
-{% for service in site.data.services.main %}
-
-<li>
-<div class="service-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    {% if service.image %} 
-    <img src="{{ service.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
-    {% endif %}
-    {% if service.category %} 
-    <abbr class="badge">{{ service.category }}</abbr>
-    {% endif %}
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><strong>{{ service.title }}</strong></div>
-      <div class="description">{{ service.description }}</div>
-    <div class="links">
-      {% if service.link %} 
-      <a href="{{ service.link }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Learn More</a>
-      {% endif %}
-      {% if service.notes %} 
-      <strong> <i style="color:#e74d3c">{{ service.notes }}</i></strong>
-      {% endif %}
-      {% if service.others %} 
-      {{ service.others }}
-      {% endif %}
-    </div>
-  </div>
-</div>
-</li>
-
-<br>
-
+{% for category, items in site.data.services %}
+  <li>
+    <h3>{{ category | replace: '_', ' ' | capitalize }}</h3>
+    <ul>
+    {% for item in items %}
+      <li>
+        <strong>{{ item.course or item.role }}</strong>
+        {% if item.term %} - {{ item.term }}{% endif %}
+        {% if item.professor %}
+          <br>Professor: <a href="{{ item.professor.link }}">{{ item.professor.name }}</a>
+        {% endif %}
+        {% if item.conference %}
+          <br>Conference: {{ item.conference }}
+        {% endif %}
+        {% if item.location %}
+          <br>Location: {{ item.location }}
+        {% endif %}
+      </li>
+    {% endfor %}
+    </ul>
+  </li>
 {% endfor %}
-
 </ol>
 </div>
