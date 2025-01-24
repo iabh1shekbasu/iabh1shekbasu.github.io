@@ -7,7 +7,7 @@ layout: homepage
 I am a Computer Vision graduate student at [Mohamed Bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/) with a 100% scholarship, previously I pursued my undergraduate degree in Computer Science and Engineering at the [National Institute of Technology Durgapur](https://nitdgp.ac.in/). I am passionate about Computer Vision, Deep Learning, reading books, Cubing, and Basketball.
 ## Research Interests
 
-I am interested in the safety, efficiency, and trustworthiness of Vision-Language Models (VLMs). My current work focuses on calibrating Medical Vision-Language Models during the prompt-tuning stage itself, eliminating the need for additional calibration steps. By refining these models, I aim to ensure their predictions are not only accurate but also confident, making them more reliable and applicable in real-world medical scenarios.
+I am interested in the safety, efficiency, and trustworthiness of AI models, particularly Vision-Language Models (VLMs). My current work focuses on calibrating Medical Vision-Language Models during the prompt-tuning stage (train time) itself, eliminating the need for additional calibration steps. By calibrating these models, I aim to ensure their predictions strike a proper balance between accuracy and confidence, making them more reliable and applicable in real-world medical scenarios rather than remaining confined to code and conferences without practical application.
 
 <!--  - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning  -->
