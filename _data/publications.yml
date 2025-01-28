@@ -28,17 +28,9 @@ main:
     image: "./assets/img/NCAA.png"
 
   - title: "An Ensemble of UNet Frameworks for Lung Nodule Segmentation"
-    authors: "Nandita Gautam, <strong>Abhishek Basu</strong>, Dmitry Kaplun, and Ram Sarkar"
-    conference_short: "LNNS"
-    conference: "Lecture Notes in Networks and Systems"
-    pdf: "https://link.springer.com/chapter/10.1007/978-3-031-34127-4_44"
-    notes: "Book Chapter"
-    image: "./assets/img/BUSU-NET++.png"
-
-  - title: "An Ensemble of UNet Frameworks for Lung Nodule Segmentation"
     authors: "Nandita Gautam, <strong>Abhishek Basu</strong>, Dmitry Kaplun and Ram Sarkar"
     conference_short: "APAMCS-2022"
     conference: "International Conference on Actual Problems In Applied Mathematics and Computer Science, 2022"
-    pdf: "https://drive.google.com/file/d/1LeTg3clVwMyfCpMhc9WC1Qshl5aJZnOd/view?usp=sharing"
+    pdf: "https://link.springer.com/chapter/10.1007/978-3-031-34127-4_44"
     notes: "Oral Presentation"
     image: "./assets/img/BUSU-NET++.png"
