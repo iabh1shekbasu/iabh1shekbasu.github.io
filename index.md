@@ -4,20 +4,28 @@ layout: homepage
 
 ## About Me
 
-I am a Computer Vision graduate student at [Mohamed Bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/) with a 100% scholarship, previously I pursued my undergraduate degree in Computer Science and Engineering at the [National Institute of Technology Durgapur](https://nitdgp.ac.in/). I am passionate about Computer Vision, Deep Learning, reading books, Cubing, and Basketball.
+I am a Research Associate at [Mohamed Bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/), affiliated with the [SPriNT-AI lab](https://www.sprintai.org/) and the [CERT Lab](https://github.com/CERT-Lab), where I am advised by [Dr. Karthik Nandakumar](https://cse.msu.edu/~nandakum/) and [Dr. Praneeth Vepakomma](https://sites.mit.edu/praneeth/), I am also fortunate to have a close collaboration with [Fahad Shamshad](https://fahadshamshad.github.io).
+
+I have recently obtained my Masters degree in Computer Vision from [Mohamed Bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/) under the supervision of [Dr. Muhammad Haris Khan](https://mbzuai.ac.ae/study/faculty/muhammad-haris-khan/) and [Dr. Karthik Nandakumar](https://cse.msu.edu/~nandakum/), prior to that I pursued my undergraduate degree in Computer Science and Engineering at the [National Institute of Technology Durgapur](https://nitdgp.ac.in/). I have also worked as a reseach intern with [Professor Ram Sarkar](https://scholar.google.com/citations?user=bDj0BUEAAAAJ&hl=en) at Jadavpur University.
+
+
+<!-- I am passionate about Computer Vision, Trustworthy Machine Learning, reading books, Cubing, and Basketball. -->
+
 ## Research Interests
 
-I am interested in the safety, efficiency, and trustworthiness of AI models, particularly Vision-Language Models (VLMs). My current work focuses on calibrating Medical Vision-Language Models during the prompt-tuning stage (train time) itself, eliminating the need for additional calibration steps. By calibrating these models, I aim to ensure their predictions strike a proper balance between accuracy and confidence, making them more reliable and applicable in real-world medical scenarios rather than remaining confined to code and conferences without practical application.
+I am interested in the safety, efficiency, and trustworthiness of AI models, particularly Vision-Language Models (VLMs). My current work focuses on calibrating Vision-Language Models to ensure their predictions strike a proper balance between accuracy and confidence, making them more reliable and applicable in real-world scenarios rather than remaining confined to code and conferences without practical application.
 
 <!--  - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning  -->
 
 ## News
+- **[April. 2025]** Won Best Poster Presentation Award at MBZUAI Research Symposium 2025 among 50+ PhD & MSc submissions from ML, CV, NLP and Robotics departments, based on my master’s thesis work.
+- **[April. 2025]** Defended my Master's thesis titled "Calibration-Aware Prompt Learning for Medical Vision-Language Models.
 - **[Nov. 2024]** Won 2nd place in the [AI-driven Drug Discovery hackathon](https://insilico.com/ism-events/abu-dhabi/hackathon2024) organized by Insilico Medicine in Abu Dhabi.
 - **[Jul. 2024]** Our paper “XDT-CXR: Investigating Cross-Disease Transferability in Zero-Shot Binary Classification of Chest X-Rays.” got accepted at [Machine Learning for Healthcare 2024](https://arxiv.org/abs/2408.11493).
 - **[Mar. 2024]** Our paper “MENet: A Mitscherlich function based ensemble of CNN models to classify lung cancer using CT scans.” got accepted at [PLOS One](https://doi.org/10.1371/journal.pone.0298527).
 - **[Nov. 2023]** Our paper “Lung Cancer Detection from Thoracic CT Scans using an Ensemble of Deep Learning Models.” got accepted at [Neural Computing and Applications, Springer](https://doi.org/10.1007/s00521-023-09130-7).
-- **[Aug 2023]** Commenced Master of Science in Computer Vision at [Mohamed Bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/) and awarded a Fully funded master's scholarship, covering tuition and other expenses.
+- **[Aug 2023]** Commenced Master of Science in Computer Vision at [Mohamed Bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/) and awarded a Fully funded master's scholarship valued at ~150,000 USD.
 - **[June 2023]** Our paper “An Ensemble of UNet Frameworks for Lung Nodule Segmentation.” was published in the book series [Current Problems in Applied Mathematics and Computer Science and Systems](https://link.springer.com/chapter/10.1007/978-3-031-34127-4_44)
 - **[June 2023]** Concluded Research Internship under Prof. Ram Sarkar at Jadavpur University, co-authored four papers on lung cancer diagnosis and treatment.
 - **[May 2023]** I completed my undergraduate studies in Computer Science and Engineering from the [National Institute of Technology Durgapur, India](https://nitdgp.ac.in/) with First Class with Distinction.
