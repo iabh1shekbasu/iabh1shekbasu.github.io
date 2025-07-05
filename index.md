@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Researcher at [Mohamed Bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/), affiliated with the [SPriNT-AI lab](https://www.sprintai.org/) and the [CERT Lab](https://github.com/CERT-Lab), where I am fortunate to be advised by [Dr. Karthik Nandakumar](https://cse.msu.edu/~nandakum/) and co-advised by [Dr. Praneeth Vepakomma](https://sites.mit.edu/praneeth/), I am also fortunate to have a close collaboration with [Fahad Shamshad](https://fahadshamshad.github.io).
+I am a Research Engineer at [Mohamed Bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/), affiliated with the [SPriNT-AI lab](https://www.sprintai.org/) and the [CERT Lab](https://github.com/CERT-Lab), where I am fortunate to be advised by [Dr. Karthik Nandakumar](https://cse.msu.edu/~nandakum/) and co-advised by [Dr. Praneeth Vepakomma](https://sites.mit.edu/praneeth/), I am also fortunate to have a close collaboration with [Fahad Shamshad](https://fahadshamshad.github.io).
 
 I have recently obtained my Masters degree in Computer Vision from [Mohamed Bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/) under the supervision of [Dr. Muhammad Haris Khan](https://mbzuai.ac.ae/study/faculty/muhammad-haris-khan/) and [Dr. Karthik Nandakumar](https://cse.msu.edu/~nandakum/), prior to that I pursued my undergraduate degree in Computer Science and Engineering at the [National Institute of Technology Durgapur](https://nitdgp.ac.in/). I have also worked as a reseach intern with [Professor Ram Sarkar](https://scholar.google.com/citations?user=bDj0BUEAAAAJ&hl=en) at Jadavpur University.
 
