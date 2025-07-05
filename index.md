@@ -4,16 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Research Engineer at [Mohamed Bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/), affiliated with the [SPriNT-AI lab](https://www.sprintai.org/) and the [CERT Lab](https://github.com/CERT-Lab), where I am fortunate to be advised by [Dr. Karthik Nandakumar](https://cse.msu.edu/~nandakum/) and co-advised by [Dr. Praneeth Vepakomma](https://sites.mit.edu/praneeth/), I am also fortunate to have a close collaboration with [Fahad Shamshad](https://fahadshamshad.github.io).
+I am a Research Engineer at [Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/), affiliated with the [SPriNT-AI Lab (Security, Privacy and Trustworthiness in Artificial Intelligence)](https://www.sprintai.org/) and the [CERT Lab (Collaboration, Efficiency, Responsibility and Trust)](https://github.com/CERT-Lab). I am fortunate to be advised by [Prof. Karthik Nandakumar](https://cse.msu.edu/~nandakum/) and co-advised by [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth/), and also fortunate to collaborate closely with [Fahad Shamshad](https://fahadshamshad.github.io).
 
-I have recently obtained my Masters degree in Computer Vision from [Mohamed Bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/) under the supervision of [Dr. Muhammad Haris Khan](https://mbzuai.ac.ae/study/faculty/muhammad-haris-khan/) and [Dr. Karthik Nandakumar](https://cse.msu.edu/~nandakum/), prior to that I pursued my undergraduate degree in Computer Science and Engineering at the [National Institute of Technology Durgapur](https://nitdgp.ac.in/). I have also worked as a reseach intern with [Professor Ram Sarkar](https://scholar.google.com/citations?user=bDj0BUEAAAAJ&hl=en) at Jadavpur University.
+I recently obtained my Master’s degree in Computer Vision from [MBZUAI](https://mbzuai.ac.ae/), under the supervision of [Prof. Muhammad Haris Khan](https://mbzuai.ac.ae/study/faculty/muhammad-haris-khan/) and [Prof. Karthik Nandakumar](https://cse.msu.edu/~nandakum/). Prior to that, I pursued my undergraduate degree in Computer Science and Engineering at the [National Institute of Technology Durgapur (NIT Durgapur)](https://nitdgp.ac.in/). I have also worked as a research intern with [Prof. Ram Sarkar](https://scholar.google.com/citations?user=bDj0BUEAAAAJ&hl=en) at Jadavpur University.
 
 
 <!-- I am passionate about Computer Vision, Trustworthy Machine Learning, reading books, Cubing, and Basketball. -->
 
 ## Research Interests
 
-I am interested in the safety, efficiency, and trustworthiness of AI models, particularly Vision-Language Models (VLMs). My current work focuses on calibrating Vision-Language Models to ensure their predictions strike a proper balance between accuracy and confidence, making them more reliable and applicable in real-world scenarios rather than remaining confined to code and conferences without practical application.
+I work at the intersection of **Computer Vision**, **Biometrics**, and **Privacy**, developing models and methods to prevent the misuse of personal data in identity-aware applications. Broadly, I am interested in building AI systems that are secure, efficient, and applicable in real-world scenarios rather than remaining confined to code and conferences without practical application.
+
+Previously, I focused on calibrating **Medical Vision-Language Models (Med-VLMs)** to improve the trustworthiness of their confidence estimates and ensure safer deployment in high-stakes domains such as healthcare.
+
 
 <!--  - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning  -->
