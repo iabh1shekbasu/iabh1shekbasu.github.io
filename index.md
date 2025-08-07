@@ -22,6 +22,8 @@ Previously, I focused on calibrating **Medical Vision-Language Models (Med-VLMs)
 - **Machine Learning:** meta-learning, incremental learning, transfer learning  -->
 
 ## News
+- **[Aug. 2025]** Invited to present my BMVC 2025 poster at the **CISPA–ELLIS Summer School 2025** on *Trustworthy AI, Secure and Safe Foundation Models*. Awarded a €1000 travel grant to attend.
+- **[July 2025]** Master’s thesis work accepted as a full paper at **BMVC 2025** (*British Machine Vision Conference*).
 - **[April. 2025]** Won Best Poster Presentation Award at MBZUAI Research Symposium 2025 among 50+ PhD & MSc submissions from ML, CV, NLP and Robotics departments, based on my master’s thesis work.
 - **[April. 2025]** Defended my Master's thesis titled "Calibration-Aware Prompt Learning for Medical Vision-Language Models.
 - **[Nov. 2024]** Won 2nd place in the [AI-driven Drug Discovery hackathon](https://insilico.com/ism-events/abu-dhabi/hackathon2024) organized by Insilico Medicine in Abu Dhabi.
