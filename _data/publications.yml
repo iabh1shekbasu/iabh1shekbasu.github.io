@@ -1,13 +1,22 @@
 main:
 
+  - title: "CalibPrompt: Calibration-Aware Prompt Learning for Medical Vision-Language Models"
+    authors: "<strong>Abhishek Basu</strong>, Fahad Shamshad, Ashshak Sharifdeen, Karthik Nandakumar, and  Muhammad Haris Khan"
+    conference_short: "BMVC 2025"
+    conference: "British Machine Vision Conference 2025"
+    pdf: ""
+    notes: "Poster Presentation"
+    code: "https://github.com/rumaima/xdt_cxr"
+    image: "./assets/img/MLHC.png"
+
   - title: "XDT-CXR: Investigating Cross-Disease Transferability in Zero-Shot Binary Classification of Chest X-Rays"
     authors: "Umaima Rahman, <strong>Abhishek Basu</strong>, Muhammad Uzair Khattak, and  Aniq Ur Rahman"
     conference_short: "MLHC 2024"
     conference: "   Machine Learning for Healthcare 2024"
     pdf: "https://arxiv.org/abs/2408.11493v1"
     notes: "Poster Presentation"
-    code: "https://github.com/rumaima/xdt_cxr"
-    image: "./assets/img/MLHC.png"
+    code: "https://github.com/iabh1shekbasu/CalibPrompt"
+    image: "./assets/img/bmvc2025.pdf"
 
   - title: "MENet: A Mitscherlich function based ensemble of CNN models to classify lung cancer using CT scans"
     authors: "Surya Majumdar*, Nandita Gautam*, <strong>Abhishek Basu*</strong>, Arup Sau*, Zong Woo Geem and Ram Sarkar"
