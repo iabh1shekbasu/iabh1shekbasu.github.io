@@ -3,7 +3,7 @@ main:
   - title: "CalibPrompt: Calibration-Aware Prompt Learning for Medical Vision-Language Models"
     authors: "<strong>Abhishek Basu</strong>, Fahad Shamshad, Ashshak Sharifdeen, Karthik Nandakumar, and  Muhammad Haris Khan"
     conference_short: "BMVC 2025"
-    conference: "British Machine Vision Conference 2025"
+    conference: "The 36th British Machine Vision Conference, 2025"
     pdf: ""
     notes: "Poster Presentation"
     code: "https://github.com/iabh1shekbasu/CalibPrompt"
