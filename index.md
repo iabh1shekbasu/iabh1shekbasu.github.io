@@ -29,7 +29,7 @@ Previously, I focused on calibrating **Medical Vision-Language Models (Med-VLMs)
 - **[Apr. 2025]** Awarded the **Best Poster Award** at the MBZUAI Research Symposium 2025, recognizing my Master’s thesis research, among 50+ PhD & MSc submissions across the ML, CV, NLP, and Robotics departments.  
 - **[Apr. 2025]** Successfully defended Master’s thesis: *“Calibration-Aware Prompt Learning for Medical Vision-Language Models.”*  
 
-- **[Nov. 2024]** Won **2nd Place** in the [AI-driven Drug Discovery Hackathon](https://insilico.com/ism-events/abu-dhabi/hackathon2024) organized by Insilico Medicine in Abu Dhabi; received a cash prize of **AED 2,000 (~$545 USD)**.  
+- **[Nov. 2024]** Won **2nd Place** in the [AI-driven Drug Discovery Hackathon](https://insilico.com/ism-events/abu-dhabi/hackathon2024) organized by Insilico Medicine in Abu Dhabi. 
 - **[Jul. 2024]** Our paper *“XDT-CXR: Investigating Cross-Disease Transferability in Zero-Shot Binary Classification of Chest X-Rays”* got accepted to **Machine Learning for Healthcare 2024**.  
 - **[Mar. 2024]** Our paper *“MENet: A Mitscherlich Function-Based Ensemble of CNN Models to Classify Lung Cancer Using CT Scans”* got accepted to **PLOS One**.  
 - **[Nov. 2023]** Our paper *“Lung Cancer Detection from Thoracic CT Scans Using an Ensemble of Deep Learning Models”* got accepted to **Neural Computing and Applications (Springer)**.  
