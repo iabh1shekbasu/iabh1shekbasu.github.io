@@ -13,7 +13,7 @@ I recently obtained my Master’s degree in Computer Vision from [MBZUAI](https:
 
 ## Research Interests
 
-I work at the intersection of **Computer Vision**, **Biometrics**, and **Privacy**, developing models and methods to prevent the misuse of personal data in identity-aware applications. Broadly, I am interested in building AI systems that are secure, efficient, and applicable in real-world scenarios rather than remaining confined to code and conferences without practical application.
+I work at the intersection of **Computer Vision**and **Biometrics**, developing models and methods to prevent the misuse of personal data in identity-aware applications. Broadly, I am interested in building AI systems that are secure, efficient, and applicable in real-world scenarios rather than remaining confined to code and conferences without practical application.
 
 Previously, I focused on calibrating **Medical Vision-Language Models (Med-VLMs)** to improve the trustworthiness of their confidence estimates and ensure safer deployment in high-stakes domains such as healthcare.
 
